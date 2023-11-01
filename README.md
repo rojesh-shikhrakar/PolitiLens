@@ -11,5 +11,6 @@ TODO
 - [] System to detect misinformation in news and validate the news through other sources.
 
 
-## HOW TO CONTRIBUTE
+## Scraping
 
+Scraped news data from 4,257 links on OnlineKhabar (English), storing the results in 'news.json' and the corresponding scraped links in 'links.csv' files.
