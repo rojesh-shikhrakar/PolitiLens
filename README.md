@@ -1,5 +1,5 @@
-# PolitiRank
-App that ranks and rates politicians and public figures based on their performance, credibility, popularity, and relevance based on their actions rather than based on what they promise to the public. So that voting can happen based on factual evidence not based on promises.
+# PolitiLens
+App that helps to transparency in politics and governance, it can ranks and rates politicians and public figures based on their performance, credibility, popularity, and relevance based on their actions rather than based on what they promise to the public. So that voting can happen based on factual evidence not based on promises.
 
 
 TODO
